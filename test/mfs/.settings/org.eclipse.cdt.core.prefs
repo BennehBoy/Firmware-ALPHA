@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.st.tools.spc5.configuration.default/PATH/delimiter=\:
+environment/project/com.st.tools.spc5.configuration.default/PATH/operation=append
+environment/project/com.st.tools.spc5.configuration.default/PATH/value=/usr/bin\:/bin\:/usr/sbin\:/sbin\:/Users/David/eclipse/gcc-arm-none-eabi-7-2017-q4-major/bin
+environment/project/com.st.tools.spc5.configuration.default/append=true
+environment/project/com.st.tools.spc5.configuration.default/appendContributed=true
